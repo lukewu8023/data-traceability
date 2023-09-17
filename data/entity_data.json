@@ -1,0 +1,8 @@
+[
+  {
+    "entity A": "SMCP=1234, maturity date=7/10, security type=Equity, security name=IBM"
+  },
+  {
+    "system B": "'securityID'=1234, 'pricing'=100.12, 'risk level'='High', 'new security type'='Equity Corporate'"
+  }
+]

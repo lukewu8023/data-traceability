@@ -1,0 +1,8 @@
+[
+  {
+    "lineagedata": "There's no upstream system of system A"
+  },
+  {
+    "lineagedata": "System B is the downstream system of System A, system A links with system B through attribute 'SMCP' of concept 'Product' in system A with attribute 'securityID' of concept 'Security' in system B"
+  }
+]

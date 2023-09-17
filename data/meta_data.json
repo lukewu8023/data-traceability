@@ -1,0 +1,8 @@
+[
+  {
+    "metadata": "System A has 'Product' concept which has attributes 'SMCP', 'maturity date', 'security type', 'security name'"
+  },
+  {
+    "metadata": "System B has 'Security' concept which has attributes 'securityID', 'pricing', 'risk level', 'new security type'"
+  }
+]
